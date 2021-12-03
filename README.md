@@ -10,4 +10,4 @@ Implement the following operations under the thematic scenarios:
 - search for individual objects and their groups (filtering) by several different criterions;
 - Sort objects by several different criterions
 
-PS if you have problems with JavaFX you can use test.bat for run
+PS if you have problems with JavaFX you can use test.bat for run (path Object-oriental-programming-on-Java/src/test.bat)
